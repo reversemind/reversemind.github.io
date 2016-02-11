@@ -4,9 +4,6 @@ Eugene V. Kalinin
 ### Senior Java Developer, Architect
 
 
-> email: [kalinin.eugene@gmail.com](mailto:kalinin.eugene@gmail.com?Subject=CV%20reponse)
->
-> phone: +1(415)644-5174
 >
 > [Linkedin](https://www.linkedin.com/in/kalynin) / [GitHub](http://www.github.com/reversemind) / [Twitter](http://www.twitter.com/konilovsky)
 
